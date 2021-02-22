@@ -11,3 +11,5 @@ Hashkill is an open-source password recovery tool. Its features are:
 * Multi-hash support
 * Fast GPU support on both Nvidia and AMD. GCN and Kepler architecture supported.
 * Multi-GPU support (even AMD+NVidia systems).
+
+![](https://github.com/nondejus/hashkill/blob/master/wvf2.png)
